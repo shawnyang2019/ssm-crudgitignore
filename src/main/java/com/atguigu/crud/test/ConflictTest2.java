@@ -7,6 +7,7 @@ package com.atguigu.crud.test;
 public class ConflictTest2 {
     public static void main(String[] args) {
         System.out.println("add something on the branch test branch ");
+        System.out.println("add something2 on the branch test branch ");
 
     }
 }
