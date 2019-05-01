@@ -8,5 +8,6 @@ public class ConflictTest {
     public static void main(String[] args) {
         System.out.println("add something,then create branch conflict branch ");
         System.out.println("add another on conflict branch after create branch conflict branch  ");
+        System.out.println("add another2 on conflict branch after create branch conflict branch  ");
     }
 }
