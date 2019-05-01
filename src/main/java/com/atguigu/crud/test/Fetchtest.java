@@ -9,5 +9,6 @@ import java.sql.SQLOutput;
 public class Fetchtest {
     public static void main(String[] args) {
         System.out.println("add some to test fetch");
+        System.out.println("add some2 to test fetch");
     }
 }
