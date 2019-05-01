@@ -7,5 +7,7 @@ package com.atguigu.crud.test;
 public class MasterBranchTest {
     public static void main(String[] args) {
         System.out.println("add something on the master branch ");
+        System.out.println("add another on the master branch ");
+
     }
 }
