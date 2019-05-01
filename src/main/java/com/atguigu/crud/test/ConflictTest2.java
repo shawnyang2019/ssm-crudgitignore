@@ -10,7 +10,7 @@ public class ConflictTest2 {
         System.out.println("add something2 on the branch test branch ");
         System.out.println("add something2 on the branch test branch ");
         System.out.println("add something2 on the branch test branch ");
-        System.out.println("add something2 on the branch test branch ");
+        System.out.println("add something2 on the branch test branch yangxuan ");
 
     }
 }
